@@ -22,5 +22,6 @@ setInterval(() => {
 
 // Button redirect
 joinBtn.addEventListener("click", () => {
-  window.open("https://t.me/+kpM0z1d46q5kYzBl", "_blank");
+  window.open("https://t.me/+eJyaVCYJ68tjMTVl", "_blank");
 });
+
